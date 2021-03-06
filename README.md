@@ -1,6 +1,13 @@
 # rajorpay_flutter_demo
 
-A new Flutter application.
+Razorpay Payment Gateway Demo
+
+#### main.dart
+#### homePage.dart
+#### check.dart
+#### razorpay_flutter.dart
+#### paymentFailed.dart
+#### paymentSuccess.dart
 
 ## Getting Started
 
